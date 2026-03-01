@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApp2</string>
+    <string name="places_to_visit_in_tunisia">Places to visit in tunisia</string>
+    <string name="buttonCaption">next</string>
+    <string name="buttonClose">close</string>
+    <string name="buttonSkip">skip</string>
+</resources>
